@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abhidharsh-subhash.github.io/Personal-Portfolio/](https://abhidharsh-subhash.github.io/Personal-Portfolio/)
 
-- 💬 Ask me about **Python,Django,Sql,ORM**
+- 💬 Ask me about **Python,Django,Sql,ORM,Data Structures and Algorithms**
 
 - 📫 How to reach me **abhidharsh199@gmail.com**
 
