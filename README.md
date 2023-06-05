@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **abhidharsh199@gmail.com**
 
-- ⚡ Fun fact **I try to make fun even in my struggles**
+- ⚡ Fun fact **I try to be relaxed and calm even in my struggles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
