@@ -15,7 +15,7 @@
 - ⚡ Fun fact **I try to be relaxed and calm even in my struggles**
 
 -  Hosted on AWS
-   <a href="furrni.shop/" target="blank"><img align="center" src="" alt="in/abhidharsh" height="30" width="40" />Furrni</a>
+   <a href="furrni.shop/" target="blank"><img align="center" src="" height="30" width="40" />Furrni</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
