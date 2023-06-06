@@ -16,6 +16,7 @@
 
 -  Hosted on AWS
    <a href="furrni.shop/" target="blank"><img align="center" height="30" width="40" />Furrni</a>
+   <a href="furrni.shop/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> Furrni</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
