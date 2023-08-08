@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhidharsh-subhash&label=Profile%20views&color=0e75b6&style=flat" alt="abhidharsh-subhash" /> </p>
 
-- 🌱 I’m currently learning **rest framework(django)**
+- 🌱 I’m currently exploring **AWS**
 
 - 👨‍💻 All of my projects are available at [https://abhidharsh-subhash.github.io/Personal-Portfolio/](https://abhidharsh-subhash.github.io/Personal-Portfolio/)
 
