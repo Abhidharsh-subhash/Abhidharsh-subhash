@@ -14,8 +14,10 @@
 
 - ⚡ Fun fact **I try to be relaxed and calm even in my struggles**
 
--  Hosted on AWS
+-  E-Commerce Host:
    <a href="https://furrni.shop/" target="blank"><img align="center"/>Furrni</a>
+-  Laborspot Host(Backend only):
+   <a href="https://laborspot.shop/" target="blank"><img align="center"/>Furrni</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
