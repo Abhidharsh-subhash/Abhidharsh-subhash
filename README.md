@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **Python,Django,Sql,ORM,Data Structures and Algorithms**
 
-- 📫 How to reach me **abhidharsh199@gmail.com**
+- 📫 reach me **abhidharsh199@gmail.com**
 
-- ⚡ Fun fact **I try to be relaxed and calm even in my struggles**
+- ⚡ Fun fact **I try to be relaxed and calm even in my struggling times.**
 
 -  E-Commerce Host:
    <a href="https://furrni.shop/" target="blank"><img align="center"/>Furrni</a>
