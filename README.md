@@ -22,10 +22,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/abhidharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/abhidharsh" height="30" width="40" /></a>
+<a href="https://leetcode.com/Abhidharsh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abhidharsh/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17292763/abhidharsh-subhash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17292763/abhidharsh-subhash" height="30" width="40" /></a>
 <a href="https://fb.com/in/abhidharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="in/abhidharsh" height="30" width="40" /></a>
 <a href="https://instagram.com/throttle__handler__8_2_0_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="throttle__handler__8_2_0_5" height="30" width="40" /></a>
-<a href="https://leetcode.com/Abhidharsh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abhidharsh/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
