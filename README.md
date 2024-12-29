@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python,Django,Sql,ORM,Data Structures and Algorithms**
 
-- 📫 reach me **abhidharsh199@gmail.com**
+- 📫 reach me **abhidharsh1999@gmail.com**
 
 - ⚡ Fun fact **I try to be relaxed and calm even in my struggling times.**
 
